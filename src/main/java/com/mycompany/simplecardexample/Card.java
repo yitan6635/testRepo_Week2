@@ -4,6 +4,7 @@ Yi Tan <tan5@sheridan.desire2learn.com>
  */
 package com.mycompany.simplecardexample;
 //yet another commit
+//add a line for testing clone
 /**
  *
  * @author Yi Tan <tan5@sheridan.desire2learn.com>
